@@ -22,7 +22,7 @@ Este projeto consiste em um jogo 2D inspirado no clássico Mario, desenvolvido e
 	•	Casos limite: Testes em bordas do mapa, movimentação em alta velocidade e colisões em áreas pequenas.
 	•	Correções: Ajustes no comportamento do personagem e na detecção de colisões foram realizados durante os testes.
 
-   7. História 
+   • ##História 
 A história relata a missão de um astronauta que precisa ir para a lua em busca de um material que é capaz de evitar a extinção humana e um futuro apocalíptico, na lua ele enfrenta alienígenas e obstáculos para concluir seu objetivo 
 
 7. Conclusão
