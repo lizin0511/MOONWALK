@@ -1,7 +1,7 @@
 # Documentação do Jogo 2D “MOONWALK”
 
 ## Introdução
-Este projeto consiste em um jogo 2D inspirado no clássico Mario, desenvolvido em JavaScript utilizando o elemento canvas para renderização gráfica. O objetivo do jogo é proporcionar uma experiência interativa com mecânicas de movimentação, colisão e interação com plataformas e inimigos.
+Este projeto, desenvolvido para a disciplina de computabilidade e complexidade de algoritmo, consiste em um jogo 2D inspirado no clássico Mario, desenvolvido em JavaScript utilizando o elemento canvas para renderização gráfica. O objetivo do jogo é proporcionar uma experiência interativa com mecânicas de movimentação, colisão e interação com plataformas e inimigos.
 
 ## Especificação do Algoritmo
 •	Movimentação do personagem: Implementada com física básica, incluindo pulo, corrida e gravidade.
