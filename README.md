@@ -37,8 +37,11 @@ A história relata a missão de um astronauta que precisa ir para a lua em busca
    As únicas teclas que serão usadas são as setinhas.
 
    Movimentar para a Direita = →
+   
    Movimentar para a Esquerda = ← 
+   
    Pular = ↑
+   
    Descer = ↓
 
 
