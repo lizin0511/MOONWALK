@@ -76,3 +76,45 @@ https://github.com/user-attachments/assets/c7af7b66-3a82-4660-bebd-b9768597af2e
 
         npm start
 
+##Check list
+
+Checklist para o Projeto de Algoritmo em Computabilidade e Complexidade de Algoritmo
+
+**Fase 1: Análise [ João Victor]**
+1.	[ João Victor] Problema selecionado e definido claramente.
+2.	[ João Victor ]  Compreensão aprofundada da natureza e desafios do problema.
+3.	[ João Victor ] Modelo matemático ou teórico desenvolvido para representar o problema.
+   
+**Fase 2: Planejamento [João Gabriel ]** 
+1.	 [ João Gabriel ] Objetivos do algoritmo definidos com clareza.
+2.	 [ João Gabriel ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
+3.	 [ João Gabriel e ] Estratégia geral de resolução do problema proposta.
+4.	 [ João Gabriel ] Subproblemas identificados e divididos, se aplicável.
+5.	 [ João Gabriel ] Estrutura geral do algoritmo esboçada.
+6.	 [ João Gabriel ] Casos limite ou situações especiais identificados.
+7.	 [ João Gabriel ] Análise teórica realizada para verificar a correção do algoritmo.
+
+**Fase 3: Desenho [ João Gabriel ]**
+1.	 [ João Gabriel ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
+2.	 [ João Gabriel ] Pontos críticos do algoritmo identificados para otimização, se necessário.
+   
+**Fase 4: Programação e Teste [João Gabriel ]**
+1.	[  João Gabriel ] Algoritmo traduzido com precisão em código de programação.
+2.	[  João Gabriel ] Código de programação escrito de forma clara e organizada.
+3.	[ João Gabriel ]  Testes rigorosos realizados em uma variedade de casos de teste.
+4.	[ João Gabriel ] Casos limite e situações especiais testados.
+5.	[ João Gabriel ] Erros e problemas durante o teste de programa identificados e corrigidos.
+
+
+**Documentação e Avaliação do Projeto [ Rodrigo Junior]**
+1.	 [ Rodrigo Junior ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
+2.	 [ Rodrigo Junior ] Documentação revisada para clareza e rigor técnico.
+3.	 [ Rodrigo Junior ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
+4.	 [ Rodrigo Junior ] Avaliação da colaboração da equipe e cumprimento dos prazos.
+
+   
+**Apresentação e Conclusão do Projeto [ João Victor ]**
+1.	[ João Victor ] Apresentação do projeto preparada com informações claras e objetivas.
+2.	[ João Victor ] Conclusões do projeto destacando os resultados e aprendizados.
+3.	[ João Victor ] Discussão sobre o projeto e respostas a perguntas da audiência.
+
