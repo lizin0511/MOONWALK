@@ -32,6 +32,16 @@ Este projeto consiste em um jogo 2D inspirado no clássico Mario, desenvolvido e
    ## História 
 A história relata a missão de um astronauta que precisa ir para a lua em busca de um material que é capaz de evitar a extinção humana e um futuro apocalíptico, na lua ele enfrenta alienígenas e obstáculos para concluir seu objetivo 
 
+   ## GamePlay
+
+   As únicas teclas que serão usadas são as setinhas.
+
+   Movimentar para a Direita = →
+   Movimentar para a Esquerda = ← 
+   Pular = ↑
+   Descer = ↓
+
+
 ## Conclusão
 O jogo 2D foi concluído com uma mecânica funcional e eficiente, cumprindo os objetivos propostos. Ele pode ser expandido para incluir novos elementos e níveis, além de melhorias de design gráfico.
 
